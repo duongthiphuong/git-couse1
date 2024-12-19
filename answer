@@ -1,0 +1,4 @@
+- Email:
+git cofig --global user.email "<phuongduongthi220602@gmail.com>"
+- Name:
+git config --global user.name "<duongthiphuong>"
